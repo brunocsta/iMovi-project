@@ -205,6 +205,10 @@
     bottom: 1.5em;
 
   }
+  
+  #up-bar >.title::before{
+    bottom: 3em;
+  }
 
   #featured-images .banner-content{
     opacity: 0;
@@ -216,6 +220,7 @@
   margin-bottom: 4em;
   padding: 4em 1em;
 }
+
 
 #info-numbers{
   margin: 1.5em 0;
